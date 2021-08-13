@@ -18,7 +18,7 @@ As an example, this is how relatively simple it is to deploy your own ERC- 721 s
 
 | Name | Github |
 | ------ | ------ |
-| Open Zepplin | [plugins/dropbox/README.md][PlDb] |
+| Open Zepplin | https://github.com/OpenZeppelin/openzeppelin-contracts |
 | DeFi Dev Road Map | [plugins/github/README.md][PlGh] |
 
 
