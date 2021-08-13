@@ -19,7 +19,10 @@ As an example, this is how relatively simple it is to deploy your own ERC- 721 s
 | Name | Github |
 | ------ | ------ |
 | Open Zepplin | https://github.com/OpenZeppelin/openzeppelin-contracts |
+| 0xcert | https://github.com/0xcert/ethereum-erc721 |
 | DeFi Dev Road Map | https://github.com/OffcierCia/DeFi-Developer-Road-Map |
+
+
 
 
 
