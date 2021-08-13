@@ -4,7 +4,7 @@
 
 As an example, this is how relatively simple it is to deploy your own ERC-721 smart contract:
  
-> Although expensive to deploy to the ethereum mainnet in terms of gas fees, users should have control of their NFTs, not marketplaces
+> *Although expensive to deploy to the ethereum mainnet in terms of gas fees, users should have control of their NFTs, not marketplaces*
 
 
 1) Import the code below into Remix IDE
